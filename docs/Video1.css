@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    size: auto;
+}
+
+nav {
+    display: flex;
+     margin: 0;
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+    padding-top: 30px;
+    float: right;
+    border-right: 2px;
+}
